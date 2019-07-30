@@ -22,7 +22,7 @@ namespace CursoCSharp.EstruturasDeControle
             {
                 bomComportamento = true;
             }
-           s
+           
             if (nota >= 6.0 && nota < 9.0 && bomComportamento)
             {
                 Console.WriteLine("Aluno Aprovado");
